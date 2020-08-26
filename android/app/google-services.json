@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "542860821288",
+    "firebase_url": "https://flat-for-rent.firebaseio.com",
+    "project_id": "flat-for-rent",
+    "storage_bucket": "flat-for-rent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542860821288:android:70b5c2e6afc851e309061d",
+        "android_client_info": {
+          "package_name": "lezamani.flat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542860821288-73q3pmjlcjdriqdtmm9umval6id28nqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL5koAoCV2krkyERsPq3PH2Y98d1eABig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542860821288-73q3pmjlcjdriqdtmm9umval6id28nqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
